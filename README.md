@@ -3,7 +3,7 @@
 ¡Hola! Soy Marlon Guzman
 Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en todos los campos. 
 
-**Tecnologías: 💻
+## Tecnologías: 💻
 * JavaScript
 * HTML
 * CSS
@@ -16,7 +16,7 @@ Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en tod
 * Sequelize & Postgres
 * Typescript [learning]
 * Tailwind [learning]
-** Contacto 📩
+## Contacto 📩
 * LinkedIn: https://www.linkedin.com/in/mguz29/
 * E-mail: mguz2997@gmail.com
 
