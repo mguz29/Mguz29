@@ -14,7 +14,7 @@ Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en tod
 * Express
 * Sequelize & Postgres
 * Typescript [learning]
-* Tailwind [learning]
+
 ## Contacto 📩
 * LinkedIn: https://www.linkedin.com/in/mguz29/
 * E-mail: mguz2997@gmail.com
@@ -32,4 +32,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* Tailwind [learning]
 -->
