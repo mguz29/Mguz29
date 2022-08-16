@@ -4,20 +4,21 @@
 Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en todos los campos. 
 
 Tecnologías: 💻
-JavaScript
-HTML
-CSS
-CSS Modules
-Bootstrap
-React
-Redux
-NodeJS & Express
-Sequelize & Postgres
-Typescript [learning]
-Tailwind [learning]
+* JavaScript
+* HTML
+* CSS
+* CSS Modules
+* Bootstrap
+* React
+* Redux
+* NodeJS 
+* Express
+* Sequelize & Postgres
+* Typescript [learning]
+* Tailwind [learning]
 Contacto 📩
-LinkedIn: https://www.linkedin.com/in/mguz29/
-E-mail: mguz2997@gmail.com
+* LinkedIn: https://www.linkedin.com/in/mguz29/
+* E-mail: mguz2997@gmail.com
 
 <!--
 **mguz29/Mguz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
