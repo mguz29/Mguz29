@@ -4,7 +4,7 @@ Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. 
 
 ## Tecnologías: 💻
 * JavaScript
-* HTML <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="My cool logo" width:"15px"/>
+* HTML5
 * CSS
 * CSS Modules
 * Bootstrap
