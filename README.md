@@ -1,6 +1,6 @@
 
 ## ¡Hi! I'm Marlon Guzman👋
-I am a Fullstack JavaScript Developer. I did a bootcamp of more than 800 hours. of intensive study that prepared me to work as a Fullstack developer. Within the course I learned from the basics to developing an application as a team. I started in the world of development relatively recently. I was fascinated with what I could create just by writing. Today I look for opportunities that help my personal development. I am a proactive person, with a good disposition, always willing, respectful and above all, eager to work as a team.
+I am a Fullstack JavaScript Developer. I did the SoyHenry Bootcamp for more than 800 hours. of intensive study that prepared me to work as a Fullstack developer. Within the course I learned from the basics to developing an application as a team. I started in the world of development relatively recently. I was fascinated with what I could create just by writing. Today I look for opportunities that help my personal development. I am a proactive person, with a good disposition, always willing, respectful and above all, eager to work as a team.
 
 ## Tech Skills: 💻
 * JavaScript
