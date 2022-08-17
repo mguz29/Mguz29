@@ -4,7 +4,7 @@ Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. 
 
 ## Tecnologías: 💻
 * JavaScript
-* HTML
+* HTML <img src="https://cdn-icons-png.flaticon.com/512/1216/1216733.png" alt="My cool logo"/>
 * CSS
 * CSS Modules
 * Bootstrap
@@ -18,7 +18,7 @@ Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. 
 ## Contacto 📩
 * LinkedIn: https://www.linkedin.com/in/mguz29/
 * E-mail: mguz2997@gmail.com
-* Portafolio: https://cdn-icons-png.flaticon.com/512/1216/1216733.png
+* Portafolio: 
 
 <!--
 **mguz29/Mguz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
