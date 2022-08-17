@@ -18,6 +18,7 @@ Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. 
 ## Contacto 📩
 * LinkedIn: https://www.linkedin.com/in/mguz29/
 * E-mail: mguz2997@gmail.com
+* Portafolio:
 
 <!--
 **mguz29/Mguz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
