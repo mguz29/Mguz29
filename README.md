@@ -1,6 +1,6 @@
 
 ## ¡Hola! Soy Marlon Guzman👋
-Soy Programador Web Full Stack y un apasionado de las nuevas tecnologías en todos los campos. 
+Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Dentro del curso aprendí desde lo básico hasta desarrollar una aplicación en equipo. Me inicie en el mundo del desarrollo hace relativamente poco. Quede fascinado con lo que podía crear solo escribiendo. Hoy busco oportunidades que ayuden a mi desarrollo personal. Soy una persona proactiva, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
 
 ## Tecnologías: 💻
 * JavaScript
