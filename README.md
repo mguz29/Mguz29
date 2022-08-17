@@ -1,8 +1,8 @@
 
-## ¡Hola! Soy Marlon Guzman👋
-Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. de estudio intensivo que me preparó para desempeñarme como desarrollador Fullstack. Dentro del curso aprendí desde lo básico hasta desarrollar una aplicación en equipo. Me inicie en el mundo del desarrollo hace relativamente poco. Quede fascinado con lo que podía crear solo escribiendo. Hoy busco oportunidades que ayuden a mi desarrollo personal. Soy una persona proactiva, con buena disposición, siempre dispuesta, respetuosa y por sobre todo con ganas de trabajar en equipo.
+## ¡Hi! I'm Marlon Guzman👋
+I am a Fullstack JavaScript Developer. I did a bootcamp of more than 800 hours. of intensive study that prepared me to work as a Fullstack developer. Within the course I learned from the basics to developing an application as a team. I started in the world of development relatively recently. I was fascinated with what I could create just by writing. Today I look for opportunities that help my personal development. I am a proactive person, with a good disposition, always willing, respectful and above all, eager to work as a team.
 
-## Tecnologías: 💻
+## Tech Skills: 💻
 * JavaScript
 * HTML5
 * CSS
@@ -15,10 +15,12 @@ Soy Desarrollador Fullstack JavaScript. Realicé un bootcamp de más de 800 hs. 
 * Sequelize & Postgres
 * Typescript [learning]
 
-## Contacto 📩
+## Contact 📩
 * LinkedIn: https://www.linkedin.com/in/mguz29/
 * E-mail: mguz2997@gmail.com
 * Portafolio: 
+
+## Full Stack Developer ❤️ from Colombia to the 🌎
 
 <!--
 **mguz29/Mguz29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
